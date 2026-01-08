@@ -1,0 +1,35 @@
+[
+  {
+    "id": "B101",
+    "name": "Campus Shuttle A",
+    "status": "On Time",
+    "location": "Main Gate",
+    "lat": 12.972442,
+    "lng": 79.155933,
+    "capacity": 40,
+    "occupied": 12,
+    "route": "Main Gate -> Library -> Hostels"
+  },
+  {
+    "id": "B102",
+    "name": "City Connector",
+    "status": "On Time",
+    "location": "Downtown",
+    "lat": 12.969171,
+    "lng": 79.155882,
+    "capacity": 50,
+    "occupied": 45,
+    "route": "Downtown -> Campus Main"
+  },
+  {
+    "id": "B103",
+    "name": "Hostel Loop",
+    "status": "On Time",
+    "location": "Hostel Block A",
+    "lat": 12.9716,
+    "lng": 79.1594,
+    "capacity": 30,
+    "occupied": 5,
+    "route": "Hostel A -> Hostel B -> Cafeteria"
+  }
+]
